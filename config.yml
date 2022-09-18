@@ -1,0 +1,5 @@
+model_path: models/sample_models  # Path to directory containing defined models (Leave until after DWH setup)
+email: ''  # Optional
+dwh_schema: mf_demo
+dwh_dialect: duckdb
+dwh_database: C:\work\metricflow\sampledb.db
